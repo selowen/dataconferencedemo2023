@@ -1,0 +1,4 @@
+1. Make sure your video is uploaded to YouTube. 
+2. You can update the images used in this within the media folder. If you do not want to update them in the code, you can just drag in new images into the folder as long as they are named the same thing. 
+3. Open your project in a code editor. You can use Visual Studio Code (https://code.visualstudio.com) or some other code editor. 
+4. Update the content in js > settings.js
